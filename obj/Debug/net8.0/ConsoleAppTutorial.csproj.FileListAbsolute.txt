@@ -1,0 +1,14 @@
+D:\C# Projects\ConsoleAppTutorial\bin\Debug\net8.0\ConsoleAppTutorial.exe
+D:\C# Projects\ConsoleAppTutorial\bin\Debug\net8.0\ConsoleAppTutorial.deps.json
+D:\C# Projects\ConsoleAppTutorial\bin\Debug\net8.0\ConsoleAppTutorial.runtimeconfig.json
+D:\C# Projects\ConsoleAppTutorial\bin\Debug\net8.0\ConsoleAppTutorial.dll
+D:\C# Projects\ConsoleAppTutorial\bin\Debug\net8.0\ConsoleAppTutorial.pdb
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ConsoleAppTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ConsoleAppTutorial.AssemblyInfoInputs.cache
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ConsoleAppTutorial.AssemblyInfo.cs
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ConsoleAppTutorial.csproj.CoreCompileInputs.cache
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ConsoleAppTutorial.dll
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\refint\ConsoleAppTutorial.dll
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ConsoleAppTutorial.pdb
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ConsoleAppTutorial.genruntimeconfig.cache
+D:\C# Projects\ConsoleAppTutorial\obj\Debug\net8.0\ref\ConsoleAppTutorial.dll
