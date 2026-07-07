@@ -46,36 +46,36 @@ MƏRHƏLƏ 2 - İDARƏETMƏ BLOKLARI
 MƏRHƏLƏ 3 - METODLAR
 ========================================
 
-□ Methods
+✓ Methods
 □ Method Overloading
 □ Recursion
 □ Optional Parameters
 □ Named Arguments
-□ Params
+✓ Params
 □ Ref
 □ Out
 □ In
 □ Local Functions
 □ Extension Methods
-□ Try Pattern
+✓ Try Pattern
 
 ========================================
 MƏRHƏLƏ 4 - OOP
 ========================================
 
-✓ OOP haqqında ümumi məlumat   
-✓ Encapsulation
-✓ Abstraction
-✓ Inheritance
-✓ Polymorphism
-✓ Class
-□ Object (Instance)
-□ Constructor
+✓ OOP haqqında ümumi məlumat  + 
+✓ Encapsulation +
+✓ Abstraction +
+✓ Inheritance +
+✓ Polymorphism +
+✓ Class +
+✓ Object (Instance) +
+✓ Constructor 
 □ Destructor
-□ Static Members
+✓ Static Members
 □ Object Initializer
-□ this
-□ base
+✓ this
+✓ base
 □ sealed
 □ partial class
 □ nested class
@@ -84,10 +84,10 @@ MƏRHƏLƏ 4 - OOP
 MƏRHƏLƏ 5 - İRƏLİ OOP
 ========================================
 
-□ Struct
+✓ Struct
 □ Record
-□ Abstract Class
-□ Interface
+✓ Abstract Class
+✓ Interface
 □ Properties
 □ Auto Properties
 □ init
@@ -101,11 +101,11 @@ MƏRHƏLƏ 6 - TİP SİSTEMİ
 
 □ Value Types
 □ Reference Types
-□ Boxing
-□ Unboxing
-□ Stack
-□ Heap
-□ Garbage Collector (GC)
+✓ Boxing
+✓ Unboxing
+✓ Stack
+✓ Heap
+✓ Garbage Collector (GC)
 □ IDisposable
 □ using statement
 
@@ -184,7 +184,7 @@ MƏRHƏLƏ 11 - LINQ
 MƏRHƏLƏ 12 - FAYLLAR
 ========================================
 
-□ Stream
+✓ Stream
 □ FileStream
 □ MemoryStream
 □ BinaryReader

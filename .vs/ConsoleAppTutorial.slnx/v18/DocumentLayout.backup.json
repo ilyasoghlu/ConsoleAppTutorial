@@ -1,19 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|c:\\users\\elshan.musa\\documents\\projects\\c# projects\\consoleapptutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|c:\\users\\elshan.musa\\documents\\projects\\c# projects\\consoleapptutorial\\cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|solutionrelative:cardealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|c:\\users\\elshan.musa\\documents\\projects\\c# projects\\consoleapptutorial\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|c:\\users\\elshan.musa\\documents\\projects\\c# projects\\consoleapptutorial\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A732B6AA-EB4B-CE5D-104F-D2C8741E3C11}|ConsoleAppTutorial.csproj|solutionrelative:university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 194,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 377,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-07T04:13:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T04:07:24.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarDealer.cs",
+              "DocumentMoniker": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\CarDealer.cs",
+              "RelativeDocumentMoniker": "CarDealer.cs",
+              "ToolTip": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\CarDealer.cs",
+              "RelativeToolTip": "CarDealer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T06:23:33.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\University.cs",
+              "RelativeDocumentMoniker": "University.cs",
+              "ToolTip": "C:\\Users\\elshan.musa\\Documents\\Projects\\C# Projects\\ConsoleAppTutorial\\University.cs",
+              "RelativeToolTip": "University.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T04:28:06.447Z",
+              "EditorCaption": ""
             }
           ]
         }
