@@ -50,3 +50,5 @@ student2.FirstName = "Aflatun";
 //cal3.Topla(1, 425);
 //cal2.Topla(5, 5);
 
+//7.7.26
+
