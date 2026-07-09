@@ -2,6 +2,83 @@
 
 
 
+while (true)
+{
+    Console.Write("Brand: ");
+    string brand = Console.ReadLine();
+
+    Console.Write("Model: ");
+    string model = Console.ReadLine();
+
+    int year;
+    while (true)
+    {
+        Console.Write("Year: ");
+
+        if (int.TryParse(Console.ReadLine(), out year))
+            break;
+
+        Console.WriteLine("Please enter a valid year.");
+    }
+
+
+    Console.Write("Owner: ");
+    string owner = Console.ReadLine();
+
+
+    Console.Write("VIN: ");
+    string vin = Console.ReadLine();
+
+    Console.Write("Engine Volume: ");
+    double volume = double.Parse(Console.ReadLine());
+
+    Console.Write("Horse Power: ");
+    int horsePower = int.Parse(Console.ReadLine());
+
+    Engine engine = new Engine(volume, horsePower);
+
+    Car car = new Car(
+        brand,
+        model,
+        year,
+        owner,
+        vin,
+        engine
+        );
+
+    List<Car> cars = new List<Car>();
+    cars.Add(car);
+
+
+    Console.WriteLine("\n===== CAR INFO =====");
+
+    Console.WriteLine($"Brand: {car.Brand}");
+    Console.WriteLine($"Model: {car.Model}");
+    Console.WriteLine($"Year: {car.Year}");
+    Console.WriteLine($"Owner: {car.Owner}");
+    Console.WriteLine($"Engine: {car.Engine.Volume}L");
+    Console.WriteLine($"HP: {car.Engine.HorsePower}");
+
+
+    Console.Write("\nAdd another car? (y/n): ");
+    string answer = Console.ReadLine();
+
+
+    if (answer.ToLower() != "y")
+    {
+        break;
+    }
+
+
+}
+
+
+
+
+
+
+
+
 //Car car01 = new Car();
 //Car car02 = new Car();
 
